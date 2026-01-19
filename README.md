@@ -1,4 +1,4 @@
-# README.md
+
 
 # 🛡️ WexYan Ultimate v8.1 - Professional Edition
 
@@ -53,7 +53,7 @@ pip install customtkinter psutil
 
 ### Запуск
 ```bash
-python wexyan_ultimate.py
+python wexyan.py
 ```
 
 ## 🚀 Использование
@@ -129,4 +129,11 @@ MIT License - смотрите файл LICENSE для подробностей.
 
 ---
 
+
 **WexYan Ultimate v8.1** - ваш надежный помощник в управлении процессами Windows!
+
+## ЕСЛИ ХОТИТЕ СКОМПИЛИРОВАТЬ В EXE
+если хотите скомпилировать в exe то выполните следущую команду
+'''bash
+pyinstaller --noconfirm --onefile --windowed  "D:\WexYan\WexYan.py"
+'''
