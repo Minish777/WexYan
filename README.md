@@ -134,6 +134,7 @@ MIT License - смотрите файл LICENSE для подробностей.
 
 ## ЕСЛИ ХОТИТЕ СКОМПИЛИРОВАТЬ В EXE
 если хотите скомпилировать в exe то выполните следущую команду
-'''bash
+```bash
 pyinstaller --noconfirm --onefile --windowed  "D:\WexYan\WexYan.py"
-'''
+```
+
